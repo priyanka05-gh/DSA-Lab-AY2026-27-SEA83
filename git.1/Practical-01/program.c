@@ -1,5 +1,5 @@
-// Name: Jay Ramesh Bhopale
-// Roll No.: SEA75
+// Name: Priyanka kanhaiyya langade
+// Roll No.: SEA83
 // Practical No. 1
 // Program to display different patterns using numbers, alphabets, and asterisks.
 
